@@ -1,0 +1,43 @@
+Meeting Minutes: July 15th, 2025
+
+Attendence: Douglas Reynolds, Anthony Merlini, Harrison Doukas, Lukas Zubalking
+
+Notes:
+
+-General discussion about module three individual reflection
+-Make sure we all have the same Unreal Engine version installed and ready to go for development later in the course - Check-in later this week via Discord chat
+-Initial Sprint task assignments
+-Asset aqcuisition - use free assets when available to minimize workload
+-How to use Jira
+-Building out the assignment checklist
+
+QA Notes:
+
+-Play test: Test assets as we develop them (Does it move? Does it have collision? Does it do its job)
+  -Everyone tests the assets they create as they are creating them
+
+-Test checklist:
+  -Player
+    -Sub checklist goes here
+    -Try to be specific with checklist items
+    -Item 3
+    -Item 4
+  -Enemies
+    -Item 1
+    -Item 2
+  -Obstacles
+    -Item 1
+    -Item 2
+  -Power Ups
+    -Item 1
+    -Item 2
+  -Level
+    -Item 1
+    -Item 2
+
+***Use the below as reference for checklist items***
+  -Make sure player dies when they get hit
+  -Make sure enemies can hit the player
+  -Make sure obstacles interact properly
+  -Make sure player and enemies can move properly
+  -Make sure power ups work as intended
