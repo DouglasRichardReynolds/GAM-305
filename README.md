@@ -40,9 +40,9 @@ Anthony Merlini, Harrison Doukas, Douglas Reynolds all collaborated and equally 
 
 ## Module Three QA and Testing Plan
 
--Play test: Test assets as we develop them (Does it move? Does it have collision? Does it do its job?)
-  -Everyone tests the assets as they are creating them, following test checklist for guidance
-  -asset testing up to 24 July with release on the 24th for alpha build - test from player's perspective, then try to break assets and look for edge scenarios
+-Play test: Test assets as we develop them (Does it move? Does it have collision? Does it do its job?)  
+  --Everyone tests the assets as they are creating them, following test checklist for guidance  
+  --asset testing up to 24 July with release on the 24th for alpha build - test from player's perspective, then try to break assets and look for edge scenarios
 
 -Code release: Merge assets and test for compatibility
 
