@@ -51,27 +51,27 @@ Anthony Merlini, Harrison Doukas, Douglas Reynolds all collaborated and equally 
 -Jira will be used to track and assign bugs - Avoid pushing bugs in the first place. If they need to be pushed, then report them.
 
 -Test checklist:  
-  -Player  
-    -Sub checklist goes here  
-    -Try to be specific with checklist items  
-    -Item 3  
-    -Item 4  
-  -Enemies  
-    -Item 1  
-    -Item 2  
-  -Obstacles  
-    -Item 1  
-    -Item 2  
-  -Power Ups  
-    -Item 1  
-    -Item 2  
-  -Level  
-    -Item 1  
-    -Item 2  
+  --Player  
+    ---Sub checklist goes here  
+    ---Try to be specific with checklist items  
+    ---Item 3  
+    ---Item 4  
+  --Enemies  
+    ---Item 1  
+    ---Item 2  
+  --Obstacles  
+    ---Item 1  
+    ---Item 2  
+  --Power Ups  
+    ---Item 1  
+    ---Item 2  
+  --Level  
+    ---Item 1  
+    ---Item 2  
 
-***Use the below as reference for checklist items***
-  -Make sure player dies when they get hit
-  -Make sure enemies can hit the player
-  -Make sure obstacles interact properly
-  -Make sure player and enemies can move properly
-  -Make sure power ups work as intended
+***Use the below as reference for checklist items***  
+  -Make sure player dies when they get hit  
+  -Make sure enemies can hit the player  
+  -Make sure obstacles interact properly  
+  -Make sure player and enemies can move properly  
+  -Make sure power ups work as intended  
