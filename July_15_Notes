@@ -2,7 +2,7 @@ Meeting Minutes: July 15th, 2025
 
 Attendence: Douglas Reynolds, Anthony Merlini, Harrison Doukas, Lukas Zubalking
 
-Notes:
+Meeting Notes:
 
 -General discussion about module three individual reflection
 -Make sure we all have the same Unreal Engine version installed and ready to go for development later in the course - Check-in later this week via Discord chat
@@ -13,8 +13,14 @@ Notes:
 
 QA Notes:
 
--Play test: Test assets as we develop them (Does it move? Does it have collision? Does it do its job)
+-Play test: Test assets as we develop them (Does it move? Does it have collision? Does it do its job?)
   -Everyone tests the assets they create as they are creating them
+
+-Regular testing up to 24 July with release on the 24th for alpha build
+
+-Checklist will be updated as release requirements are discovered
+
+-Jira will be used to track and assign bugs
 
 -Test checklist:
   -Player
