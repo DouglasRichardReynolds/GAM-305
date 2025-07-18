@@ -67,11 +67,11 @@ Test checklist:
     --Do not interact with enemies  
     --Spawn appropriately  
     --Effects stack properly  
-    --Consistant art assets  
+    --Consistent art assets  
   -Level (Douglas Reynolds)  
     --Wave/Room begins properly  
     --Wave/Room ends properly  
-    --Consistant art assets  
+    --Consistent art assets  
 
 ***Use the below as reference for checklist items***  
   -Make sure player dies when they get hit  
