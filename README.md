@@ -62,12 +62,14 @@ Test checklist:
   -Obstacles  
     --Item 1  
     --Item 2  
-  -Power Ups  
-    --Item 1  
-    --Item 2  
-  -Level  
-    --Item 1  
-    --Item 2  
+  -Power Ups (Douglas Reynolds)  
+    --Apply to player correctly  
+    --Do not interact with enemies  
+    --Spawn appropriately  
+    --Effects stack properly  
+  -Level (Douglas Reynolds)  
+    --Wave/Room begins properly 
+    --Wave/Room ends properly  
 
 ***Use the below as reference for checklist items***  
   -Make sure player dies when they get hit  
