@@ -56,9 +56,18 @@ Test checklist:
     --Try to be specific with checklist items  
     --Item 3  
     --Item 4  
-  -Enemies  
-    --Item 1  
-    --Item 2  
+  -Enemies(Lukas Zubal-King)  
+  1. Static enemy
+  - interacts with player as expected
+  - enemy operates by moving along a timed swivel
+  - if player falls within enemies' "line of sight", enemy will engage player
+  - if player falls out of range returns to timed swivel pattern
+  2. Dynamic enemy
+  - active nav mesh allows enemy to follow player through level
+  - enemy engages player in combat when in range
+  - enemy reverts back to a patrol pattern when player is out of range
+  - enemy health bar is responsive to damage from player
+  - enemy is destroyed when health bar is empty
   -Obstacles(Anthony Merlini)  
     --Wall - Make sure it blocks player and AI Movement as well as their projectiles  
     --Fence - Make sure blocks player and Ai movement but allows their projectiles to pass through  
