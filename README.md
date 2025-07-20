@@ -68,6 +68,7 @@ Test checklist:
   - enemy reverts back to a patrol pattern when player is out of range
   - enemy health bar is responsive to damage from player
   - enemy is destroyed when health bar is empty
+    
   -Obstacles(Anthony Merlini)  
     --Wall - Make sure it blocks player and AI Movement as well as their projectiles  
     --Fence - Make sure blocks player and Ai movement but allows their projectiles to pass through  
