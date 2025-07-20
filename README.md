@@ -61,9 +61,9 @@ Test checklist:
     --Item 2  
   -Obstacles  
     --Wall - Make sure it blocks player and AI Movement as well as their projectiles  
-    --Fence - Make sure blocks player and Ai movement but allows their projectiles to pass through
-      --TNT barrel - make sure on collision with projectile will explode after x amount of damage - Also collision created on explosion damages player and AI near
-      --Pit - make sure player can fall into pit and will die, and AI are not able to fall in
+    --Fence - Make sure blocks player and Ai movement but allows their projectiles to pass through  
+    --TNT barrel - make sure on collision with projectile will explode after x amount of damage - Also collision created on explosion damages player and AI near  
+    --Pit - make sure player can fall into pit and will die, and AI are not able to fall in  
   -Power Ups (Douglas Reynolds)  
     --Apply to player correctly  
     --Do not interact with enemies  
