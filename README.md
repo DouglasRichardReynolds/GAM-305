@@ -51,11 +51,14 @@ Checklist will be updated as release requirements are discovered
 Jira will be used to track and assign bugs - Avoid pushing bugs in the first place. If they need to be pushed, then report them.
 
 Test checklist:  
-  -Player  
-    --Sub checklist goes here  
-    --Try to be specific with checklist items  
-    --Item 3  
-    --Item 4  
+  -Player (Harrison Doukas)  
+  - obeys level geometry
+  - camera follows exclusively, does not get displaced
+  - is destroyed upon being hit by an enemy projectile
+  - projectiles are fired in the cursor's direction
+  - projectiles damage enemies
+  - generally feels good to use
+
   -Enemies(Lukas Zubal-King)  
   1. Static enemy
   - interacts with player as expected
