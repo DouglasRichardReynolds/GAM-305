@@ -52,31 +52,32 @@ Jira will be used to track and assign bugs - Avoid pushing bugs in the first pla
 
 Test checklist:  
   -Player (Harrison Doukas)  
-  - obeys level geometry
-  - camera follows exclusively, does not get displaced
-  - is destroyed upon being hit by an enemy projectile
-  - projectiles are fired in the cursor's direction
-  - projectiles damage enemies
-  - generally feels good to use
+  - obeys level geometry  
+  - camera follows exclusively, does not get displaced  
+  - is destroyed upon being hit by an enemy projectile  
+  - projectiles are fired in the cursor's direction  
+  - projectiles damage enemies  
+  - generally feels good to use  
 
   -Enemies(Lukas Zubal-King)  
-  1. Static enemy
-  - interacts with player as expected
-  - enemy operates by moving along a timed swivel
-  - if player falls within enemies' "line of sight", enemy will engage player
-  - if player falls out of range returns to timed swivel pattern
-  2. Dynamic enemy
-  - active nav mesh allows enemy to follow player through level
-  - enemy engages player in combat when in range
-  - enemy reverts back to a patrol pattern when player is out of range
-  - enemy health bar is responsive to damage from player
-  - enemy is destroyed when health bar is empty
+  1. Static enemy  
+  - interacts with player as expected  
+  - enemy operates by moving along a timed swivel  
+  - if player falls within enemies' "line of sight", enemy will engage player  
+  - if player falls out of range returns to timed swivel pattern  
+  2. Dynamic enemy  
+  - active nav mesh allows enemy to follow player through level  
+  - enemy engages player in combat when in range  
+  - enemy reverts back to a patrol pattern when player is out of range  
+  - enemy health bar is responsive to damage from player  
+  - enemy is destroyed when health bar is empty  
     
   -Obstacles(Anthony Merlini)  
     --Wall - Make sure it blocks player and AI Movement as well as their projectiles  
     --Fence - Make sure blocks player and Ai movement but allows their projectiles to pass through  
     --TNT barrel - make sure on collision with projectile will explode after x amount of damage - Also collision created on explosion damages player and AI near  
     --Pit - make sure player can fall into pit and will die, and AI are not able to fall in  
+
   -Power Ups (Douglas Reynolds)  
     --Apply to player correctly  
     --Do not interact with enemies  
