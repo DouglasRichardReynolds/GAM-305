@@ -95,3 +95,22 @@ Test checklist:
   -Make sure obstacles interact properly  
   -Make sure player and enemies can move properly  
   -Make sure power ups work as intended  
+
+## Module Four Project Log - Team Reflection  
+
+What parts of the testing process did the team perceive to go well?  
+
+
+How were bugs identified and corrected?  
+
+
+In terms of the QA and testing process, what would you do differently to improve the process?  
+
+
+What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?  
+
+
+Were there any tools or techniques that you did not find helpful in the success of your project development? Why?  
+
+
+How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?  
