@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/douka/Documents/snhu/gam 305/finalProject/GAM-305/GAM_305_Project/Content/Player/PlayerChar_BP.uasset",
+				"C:/Users/douka/Documents/snhu/gam 305/finalProject/GAM-305/GAM_305_Project/Content/Player/PlayerCont_BP.uasset",
+				"C:/Users/douka/Documents/snhu/gam 305/finalProject/GAM-305/GAM_305_Project/Content/Player/PlayerIMC_BP.uasset",
+				"C:/Users/douka/Documents/snhu/gam 305/finalProject/GAM-305/GAM_305_Project/Content/TopDown/Maps/TopDownMap.umap",
+				"C:/Users/douka/Documents/snhu/gam 305/finalProject/GAM-305/GAM_305_Project/Content/Player/PlayerProj_BP.uasset",
 				"C:/Users/DR/Documents/Unreal Projects/GAM_305_Project/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
