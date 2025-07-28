@@ -99,24 +99,24 @@ Test checklist:
 ## Module Four Project Log - Team Reflection  
 
 ***What parts of the testing process did the team perceive to go well?***  
-Douglas:  
+Douglas: For the most part, integration testing seemed to go well. We ran into some compatability issues between seperate components, but were able to get them interacting properly eventually.  
 
 
 ***How were bugs identified and corrected?***  
-Douglas:  
+Douglas: We identified bugs as we tested our components. Bugs that were identified are tracked in Jira.  
 
 
 ***In terms of the QA and testing process, what would you do differently to improve the process?***  
-Douglas:  
+Douglas: Cleaning up and seperating our development and testing branches would help minimize merge conflicts and keep the code base better organized.  
 
 
 ***What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?***  
-Douglas:  
+Douglas: Constant communication via Discord helped keep us abreast of what pain points each member of the team were experiencing. We were able to assist people when they needed it and kept the team on-track. Jira is being used to delineate who was in charge of what tasks, as well as keeping track on bugs that we encounter. Managing the repo on Github has been time consuming.  
 
 
 ***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
-Douglas:  
+Douglas: Not particularly. Of the tools we've been using, Jira might be the least useful. Even without Jira, I'm convinced we could easily keep track of who is working on what tasks. Even a simple Google Sheet could do the job.  
 
 
 ***How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?***  
-Douglas:  
+Douglas: We decided to keep things as simple as possible to minimize development time. With that, tasks seem to be moving slower than all of us would expect. This is mostly due to repository issues, navigating git, and resolving merge conflicts. Most of the decisions on what we would use were driven by team familiarity. We've also been exposed to Obsidian (a note taking software), which has helped us take notes.  
