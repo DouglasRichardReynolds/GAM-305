@@ -100,23 +100,24 @@ Test checklist:
 
 ***What parts of the testing process did the team perceive to go well?***  
 Douglas: For the most part, integration testing seemed to go well. We ran into some compatability issues between seperate components, but were able to get them interacting properly eventually.  
-
+Harrison: Player movement and shooting worked well in my own branch, but dealing damage I had no idea about until merging all of our individual branches. Dealing damage against the AI did end up working in the end.  
 
 ***How were bugs identified and corrected?***  
 Douglas: We identified bugs as we tested our components. Bugs that were identified are tracked in Jira.  
-
+Harrison: I fixed all of my own bugs before the final Alpha build came out, so I had nothing to report. I would have notified our Discord group chat and submitted a bug report through Jira if there were any, though.  
 
 ***In terms of the QA and testing process, what would you do differently to improve the process?***  
 Douglas: Cleaning up and seperating our development and testing branches would help minimize merge conflicts and keep the code base better organized.  
-
+Harrison: Definitely would want the Alpha build done much earlier. We were rushing last minute to get things working so we could actually test things to begin with. The repository was also apparently set up incorrectly from the beginning, which led to a lot of wasted time when trying to merge the branches together. This shouldn't happen again, at least.  
 
 ***What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?***  
 Douglas: Constant communication via Discord helped keep us abreast of what pain points each member of the team were experiencing. We were able to assist people when they needed it and kept the team on-track. Jira is being used to delineate who was in charge of what tasks, as well as keeping track on bugs that we encounter. Managing the repo on Github has been time consuming.  
-
+Harrison: Using Discord was very convenient as it's on both mobile and PC for quick communication anywhere. Jira was also helpful for clear designation of project roles.  
 
 ***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
 Douglas: Not particularly. Of the tools we've been using, Jira might be the least useful. Even without Jira, I'm convinced we could easily keep track of who is working on what tasks. Even a simple Google Sheet could do the job.  
-
+Harrison: Meeting on Tuesday was not particularly helpful last week, as pretty much everything we'd discuss needed a completed Alpha build to begin with. We also aimed to have everything done by 7/24 for merging, but that did not end up happening.  
 
 ***How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?***  
 Douglas: We decided to keep things as simple as possible to minimize development time. With that, tasks seem to be moving slower than all of us would expect. This is mostly due to repository issues, navigating git, and resolving merge conflicts. Most of the decisions on what we would use were driven by team familiarity. We've also been exposed to Obsidian (a note taking software), which has helped us take notes.  
+Harrison: The game design document outlining exactly how many features needed to be added made the decision to use Jira easy. Since Jira allows for easy task creation and the ability to designate tasks to specific people, it was simply a matter of figuring out who does exactly which things. The other things, however, were mostly decided due to project deadlines rather than the design doc.  
