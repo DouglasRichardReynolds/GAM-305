@@ -98,19 +98,25 @@ Test checklist:
 
 ## Module Four Project Log - Team Reflection  
 
-What parts of the testing process did the team perceive to go well?  
+***What parts of the testing process did the team perceive to go well?***  
+Douglas:  
 
 
-How were bugs identified and corrected?  
+***How were bugs identified and corrected?***  
+Douglas:  
 
 
-In terms of the QA and testing process, what would you do differently to improve the process?  
+***In terms of the QA and testing process, what would you do differently to improve the process?***  
+Douglas:  
 
 
-What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?  
+***What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?***  
+Douglas:  
 
 
-Were there any tools or techniques that you did not find helpful in the success of your project development? Why?  
+***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
+Douglas:  
 
 
-How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?  
+***How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?***  
+Douglas:  
