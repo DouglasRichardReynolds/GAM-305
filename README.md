@@ -128,3 +128,17 @@ Anthony:  I haven't fully utilized Jira yet and I thinks it just because there h
 Douglas: We decided to keep things as simple as possible to minimize development time. With that, tasks seem to be moving slower than all of us would expect. This is mostly due to repository issues, navigating git, and resolving merge conflicts. Most of the decisions on what we would use were driven by team familiarity. We've also been exposed to Obsidian (a note taking software), which has helped us take notes.  
 Harrison: The game design document outlining exactly how many features needed to be added made the decision to use Jira easy. Since Jira allows for easy task creation and the ability to designate tasks to specific people, it was simply a matter of figuring out who does exactly which things. The other things, however, were mostly decided due to project deadlines rather than the design doc.  
 Anthony: I think from the initial analysis we knew we needed a good source of communication and I beleive discord is a great option for that. We were all familiar slightly with github because of previous courses and other work, and then Jira was a recommended application from Douglas who had used it before and knew it to be a good way to track assignments and bugs within the project.
+
+## Module Five Project Log - Team Reflection  
+
+***What parts of the plan did the team perceive to go well in relation to the last stage evaluation?***  
+
+***What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?***  
+
+***How were the previous evaluations integrated into this latest stage?***  
+
+***What would you do differently to improve the collaboration or development process?***  
+
+***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
+
+***Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.***  
