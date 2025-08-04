@@ -133,18 +133,24 @@ Anthony: I think from the initial analysis we knew we needed a good source of co
 
 ***What parts of the plan did the team perceive to go well in relation to the last stage evaluation?***  
 Harrison: We managed to get more done earlier in the week to get a final Beta build done earlier. We also managed the GitHub branches better to make combining them smoother.  
+Douglas:  Merging our work into the Beta_Final branch was much smoother. We're starting to get the hang of group work.  
 
 ***What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?***  
 Harrison: Everything we did this week was just generally better than last. Can't think of anything.  
+Douglas:  We still run into issues with git. There were a handful of hours burnt ironing our merge conflicts and making sure everyone had the most up-to-date changes on their working branches.  
 
 ***How were the previous evaluations integrated into this latest stage?***  
 Harrison: We got things done earlier so we could make a final Beta build earlier. We still met on Tuesday even if last week's meeting wasn't particularly productive, but this time it ended up being important to finish the Alpha build (since we were late with it) and figure out exactly what the next steps were for the Beta.  
+Douglas:  We've been getting better at accomplishing all steps of the development process - planning, developing, testing, and debugging.  
 
 ***What would you do differently to improve the collaboration or development process?***  
 Harrison: If we had known Git and GitHub wouldn't work particularly well with Blueprints, I think I would have wanted to either use C++ or just find something that works better so merge conflicts wouldn't be nearly as big an issue.  
+Douglas:  I think having an in-depth knowledge git prior to beginning group work would have been beneficial. Many hours of managing the repo would have been saved.  
 
 ***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
 Harrison: Unlike last week, meeting at our scheduled time was actually productive, so pretty much everything was helpful.  
+Douglas:  Everything was better this week compared to last. We're getting better at working together, communicating, and using the project tools at our disposal. With that, I can't think of anything that were slowing us down.  
 
 ***Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.***  
 Harrison: While slightly behind the Beta development goal, it's still really close, and the framework is all there to get the final build done quickly. We may have to push back the deadline for the final build a day or two, but will get it done.  
+Douglas:  We've been meeting on Tuesdays, Thursdays, and Saturdays to make sure we're keeping in-line with our project goals. The plan is to get together on Tuesday to flesh out our individual responsibilities for the completion of the build, Thursday to check in and make sure the development stage is complete, and Saturday to make sure everything is tested and fully fleshed out. I'm excited to see how the project will look by the end of the upcoming week.
