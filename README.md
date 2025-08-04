@@ -159,10 +159,9 @@ Anthony: Set up a second call earlier in the week early on woudlve helped, and a
 ***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
 Harrison: Unlike last week, meeting at our scheduled time was actually productive, so pretty much everything was helpful.  
 Douglas:  Everything was better this week compared to last. We're getting better at working together, communicating, and using the project tools at our disposal. With that, I can't think of anything that were slowing us down.  
-Lukas: There haven't been any real issues with the tools we are utilizing. We have concluded that one meeting at the start of the week will not suffice have been able to coordinate meetings before and during the weekend to work on final requirements for the sprint.
+Lukas: There haven't been any real issues with the tools we are utilizing. We have concluded that one meeting at the start of the week will not suffice have been able to coordinate meetings before and during the weekend to work on final requirements for the sprint.  
+
 Anthony: Were getting better with git hub and although its a pain it is very helpful when working on a big prioject with a group.  
-
-
 
 
 ***Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.***  
