@@ -164,6 +164,7 @@ Anthony: Were getting better with git hub and although its a pain it is very hel
 
 
 
+
 ***Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.***  
 Harrison: While slightly behind the Beta development goal, it's still really close, and the framework is all there to get the final build done quickly. We may have to push back the deadline for the final build a day or two, but will get it done.  
 Douglas:  We've been meeting on Tuesdays, Thursdays, and Saturdays to make sure we're keeping in-line with our project goals. The plan is to get together on Tuesday to flesh out our individual responsibilities for the completion of the build, Thursday to check in and make sure the development stage is complete, and Saturday to make sure everything is tested and fully fleshed out. I'm excited to see how the project will look by the end of the upcoming week.
