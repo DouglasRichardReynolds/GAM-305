@@ -170,3 +170,15 @@ Douglas:  We've been meeting on Tuesdays, Thursdays, and Saturdays to make sure 
 
 Lukas: The bulk of the beta build is functional and all my team memebers did a tremendous job building out the levels. During the sprint we were able to identify the most functional scripts that we could then repurpose for multiple enemy types. While waiting on help with a git bash issue I also experimented with changing the class types for the enemies to resolve a bug but failed. I scrapped the idea for the sake of consistency and removed that enemy type for the time being. The features that were not included have placeholders in beta and this week it will be decided which ones will remain in the final release.  
 Anthony: We've been calling more frequently which is good and helps us make sure were on schedule, we may be slighlty behind but the basics of the game are basically down we just need to keep a good schedule with implementing everything together and adding our eventual art.
+
+## Module Six Project Log - Team Reflection  
+
+***What parts of the plan did the team perceive to go well in relation to the last stage evaluation?***  
+
+***What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?***  
+
+***How were the previous evaluations integrated into this latest stage?***  
+
+***What would you do differently to improve the collaboration or development process?***  
+
+***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
