@@ -197,4 +197,4 @@ Harrison: It would have been nice for the team member with issues to have brough
 ***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
 Douglas: We had all the tools we needed to complete this assignment. We just didn't allocate enough time to complete it by the end of the 6 week deadline.  
 Anthony: I think everything was helpful and I was able to see morer of Jira's uses with sub tasks so I may be able to use it in the future. We moslty just needed more time than we thought.  
-
+Harrison: Nothing to report here. We kept using the same stuff as last week because it worked well last week.  
