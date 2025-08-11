@@ -174,11 +174,16 @@ Anthony: We've been calling more frequently which is good and helps us make sure
 ## Module Six Project Log - Team Reflection  
 
 ***What parts of the plan did the team perceive to go well in relation to the last stage evaluation?***  
+Douglas: We layed out what exactly needed to get done for what we considered was a full release in Jira. The tasks were clear and concise, broken down and organized into smaller sub-tasks.  
 
 ***What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?***  
+Douglas: Unfortunately, we weren't able to complete everything that we wanted to get done the end of week 6.  
 
 ***How were the previous evaluations integrated into this latest stage?***  
+Douglas: We took a look at what went well and what didnt't in the previous weeks. We planned better, but the overall workload was much higher than we anticipated.  
 
 ***What would you do differently to improve the collaboration or development process?***  
+Douglas: I would hold daily check-ins to make sure everyone was making forward progress, making sure everyone was dedicating an appropriate amount of time to the project.  
 
 ***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
+Douglas: We had all the tools we needed to complete this assignment. We just didn't allocate enough time to complete it by the end of the 6 week deadline.  
