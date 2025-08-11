@@ -175,15 +175,26 @@ Anthony: We've been calling more frequently which is good and helps us make sure
 
 ***What parts of the plan did the team perceive to go well in relation to the last stage evaluation?***  
 Douglas: We layed out what exactly needed to get done for what we considered was a full release in Jira. The tasks were clear and concise, broken down and organized into smaller sub-tasks.  
+Anthony: We knew what we needed to do this week and didn't need to call as much moslty just updates via message on discord. We used Jira more since there were more sub tasks to go around which was a nice way to track.  
+
 
 ***What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?***  
 Douglas: Unfortunately, we weren't able to complete everything that we wanted to get done the end of week 6.  
+Anthony: Didn't have as much time as we wanted to get done certain tasks leading some to be very close to finishing.  
+
 
 ***How were the previous evaluations integrated into this latest stage?***  
 Douglas: We took a look at what went well and what didnt't in the previous weeks. We planned better, but the overall workload was much higher than we anticipated.  
+Anthony: We were able to make more use of the earlier call which we usually don't. The first call we make in a week is usually very quick and don't have much to say bu this week we used Jira to plan out a lot more sub tasks.  
+
 
 ***What would you do differently to improve the collaboration or development process?***  
 Douglas: I would hold daily check-ins to make sure everyone was making forward progress, making sure everyone was dedicating an appropriate amount of time to the project.  
+Anthony: I would make sure everyone was ok with their tasks earlier that way we would know if someone needed help to complete certain tasks.  
+
+
 
 ***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
 Douglas: We had all the tools we needed to complete this assignment. We just didn't allocate enough time to complete it by the end of the 6 week deadline.  
+Anthony: I think everything was helpful and I was able to see morer of Jira's uses with sub tasks so I may be able to use it in the future. We moslty just needed more time than we thought.  
+
