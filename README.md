@@ -176,22 +176,22 @@ Anthony: We've been calling more frequently which is good and helps us make sure
 ***What parts of the plan did the team perceive to go well in relation to the last stage evaluation?***  
 Douglas: We layed out what exactly needed to get done for what we considered was a full release in Jira. The tasks were clear and concise, broken down and organized into smaller sub-tasks.  
 Anthony: We knew what we needed to do this week and didn't need to call as much moslty just updates via message on discord. We used Jira more since there were more sub tasks to go around which was a nice way to track.  
-
+Harrison: To start, the "from an artist's standpoint" in this project log prompt is doing a lot of work here. We had almost no assets actually done prior to this week, so frankly, everything is much better now.  
 
 ***What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?***  
 Douglas: Unfortunately, we weren't able to complete everything that we wanted to get done the end of week 6.  
 Anthony: Didn't have as much time as we wanted to get done certain tasks leading some to be very close to finishing.  
-
+Harrison: Since we had almost no assets done, and one team member was unable to work properly for a bit, we weren't able to get everything done by the deadline.  
 
 ***How were the previous evaluations integrated into this latest stage?***  
 Douglas: We took a look at what went well and what didnt't in the previous weeks. We planned better, but the overall workload was much higher than we anticipated.  
 Anthony: We were able to make more use of the earlier call which we usually don't. The first call we make in a week is usually very quick and don't have much to say bu this week we used Jira to plan out a lot more sub tasks.  
-
+Harrison: We got even better with using Git to merge our work together, with very few issues coming up.  
 
 ***What would you do differently to improve the collaboration or development process?***  
 Douglas: I would hold daily check-ins to make sure everyone was making forward progress, making sure everyone was dedicating an appropriate amount of time to the project.  
 Anthony: I would make sure everyone was ok with their tasks earlier that way we would know if someone needed help to complete certain tasks.  
-
+Harrison: It would have been nice for the team member with issues to have brought them up earlier in the week, but that wouldn't have fixed the issues we had with development slowdown. Maybe spending more time on assets last week would have improved this week.  
 
 
 ***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
