@@ -176,25 +176,29 @@ Anthony: We've been calling more frequently which is good and helps us make sure
 ***What parts of the plan did the team perceive to go well in relation to the last stage evaluation?***  
 Douglas: We layed out what exactly needed to get done for what we considered was a full release in Jira. The tasks were clear and concise, broken down and organized into smaller sub-tasks.  
 Anthony: We knew what we needed to do this week and didn't need to call as much moslty just updates via message on discord. We used Jira more since there were more sub tasks to go around which was a nice way to track.  
-Harrison: To start, the "from an artist's standpoint" in this project log prompt is doing a lot of work here. We had almost no assets actually done prior to this week, so frankly, everything is much better now.  
+Harrison: To start, the "from an artist's standpoint" in this project log prompt is doing a lot of work here. We had almost no assets actually done prior to this week, so frankly, everything is much better now. 
+Lukas: Seeing the tasks my teammates outlined coming together was really impressive, especially with regard to the level design.
 
 ***What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?***  
 Douglas: Unfortunately, we weren't able to complete everything that we wanted to get done the end of week 6.  
 Anthony: Didn't have as much time as we wanted to get done certain tasks leading some to be very close to finishing.  
 Harrison: Since we had almost no assets done, and one team member was unable to work properly for a bit, we weren't able to get everything done by the deadline.  
+Lukas: My contributions did not resolve the intitial issues we'd addressed during the previous sprint.
 
 ***How were the previous evaluations integrated into this latest stage?***  
 Douglas: We took a look at what went well and what didnt't in the previous weeks. We planned better, but the overall workload was much higher than we anticipated.  
 Anthony: We were able to make more use of the earlier call which we usually don't. The first call we make in a week is usually very quick and don't have much to say bu this week we used Jira to plan out a lot more sub tasks.  
-Harrison: We got even better with using Git to merge our work together, with very few issues coming up.  
+Harrison: We got even better with using Git to merge our work together, with very few issues coming up. 
+Lukas: My skills with version control are slowly improving as is my ability to work with blueprint scripts.
 
 ***What would you do differently to improve the collaboration or development process?***  
 Douglas: I would hold daily check-ins to make sure everyone was making forward progress, making sure everyone was dedicating an appropriate amount of time to the project.  
 Anthony: I would make sure everyone was ok with their tasks earlier that way we would know if someone needed help to complete certain tasks.  
 Harrison: It would have been nice for the team member with issues to have brought them up earlier in the week, but that wouldn't have fixed the issues we had with development slowdown. Maybe spending more time on assets last week would have improved this week.  
-
+Lukas: While my schedule change would have impacted the final project regardless, I need to be better about active communication. I allowed outside influence to affect my time management and quality of work and in doing so let down my team members. That is not a mistake I want to repeat again in the future.
 
 ***Were there any tools or techniques that you did not find helpful in the success of your project development? Why?***  
 Douglas: We had all the tools we needed to complete this assignment. We just didn't allocate enough time to complete it by the end of the 6 week deadline.  
 Anthony: I think everything was helpful and I was able to see morer of Jira's uses with sub tasks so I may be able to use it in the future. We moslty just needed more time than we thought.  
-Harrison: Nothing to report here. We kept using the same stuff as last week because it worked well last week.  
+Harrison: Nothing to report here. We kept using the same stuff as last week because it worked well last week. 
+Lukas: I did not utlize Jira as much as my teammates, mostly due to the fact that my requirements were minimal as was my progress with them.
